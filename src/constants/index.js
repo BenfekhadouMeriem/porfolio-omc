@@ -25,8 +25,13 @@ import {
   threejs,
 } from "../assets";
 
-import githubAlt from "../assets/tech/github-alt.png";
+import githubAlt from "../assets/tech/github-alt.png?url";
 import github from "../assets/github.png"; 
+
+import feriel from "../assets/personne/feriel.png";
+import chemsou from "../assets/personne/chemsou.png";
+import aymen from "../assets/personne/aymen.png";
+
 
 
 
@@ -186,7 +191,7 @@ const testimonials = [
     name: "Feriel",
     designation: "President IT",
     company: "OMC",
-    image: "",
+    image: feriel
   },
   {
     testimonial:
@@ -194,7 +199,7 @@ const testimonials = [
     name: "Chmsou",
     designation: "President IT",
     company: "OMC",
-    image: "",
+    image: chemsou
   },
   {
     testimonial:
@@ -202,7 +207,7 @@ const testimonials = [
     name: "Aymen",
     designation: "President Web Development",
     company: "OMC",
-    image: "",
+    image: aymen
   },
 ];
 
