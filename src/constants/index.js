@@ -314,7 +314,7 @@ const projects = [
     ],
     image: tripguide,
     demoLink: [
-      { label: "meriem2319", url: "" },
+      { label: "meriem2319", url: "https://benfekhadoumeriem.github.io/porfolio-omc/" },
       { label: "Rawane", url: "https://show-work-omc.vercel.app/ " },
       { label: "DOUAA 🎀", url: "https://douaachahrazed21.github.io/OMC-Project-showcase-website/" },
       { label: "khawlaaa", url: "https://threerachaa.github.io/gameCardsSite/" },
